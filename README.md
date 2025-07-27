@@ -39,6 +39,6 @@ The models are tested on their ability to **predict Feb–Mar 2025 stock prices*
 - **MAPE** (Mean Absolute Percentage Error)
 - **Prediction Plots** vs. Actual Data
 
-Example:
+
 
 
